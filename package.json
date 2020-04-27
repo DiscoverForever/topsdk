@@ -1,7 +1,7 @@
 {
   "name": "tbk_top_sdk",
   "author": "xuteng.xt@alibaba-inc.com",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "description": "Taobao Open API & Message Client.",
   "private": false,
   "keywords": [
