@@ -20,7 +20,7 @@ npm login # 登陆
 
 echo -e "-------\033[36mpublishing\033[0m-------"
 
-npm run build # 打包
+# npm run build # 打包
 
 npm publish # 发布
 
